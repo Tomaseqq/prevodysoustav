@@ -1,0 +1,11 @@
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\bin\Debug\prevody_soustav.exe.config
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\bin\Debug\prevody_soustav.exe
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\bin\Debug\prevody_soustav.pdb
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.Form1.resources
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.Properties.Resources.resources
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.csproj.GenerateResource.cache
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.csproj.CoreCompileInputs.cache
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.exe
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.pdb
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.csproj.AssemblyReference.cache
+G:\POS\Prevody soustav\prevody_soustav\prevody_soustav\obj\Debug\prevody_soustav.csproj.SuggestedBindingRedirects.cache
